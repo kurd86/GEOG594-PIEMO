@@ -1,1 +1,3 @@
 # GEOG594-PIEMO
+## Baymna Zada
+### BDA/GEOG594
