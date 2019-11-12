@@ -1,3 +1,3 @@
 # GEOG594-PIEMO
 ## Baymna Zada
-### BDA/GEOG594
+### https://github.com/kurd86/GEOG594-PIEMO
